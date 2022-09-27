@@ -1,0 +1,22 @@
+body {
+    background-image: url('images/chicago_boken.jpeg');
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+    color: #545454;
+    font-family: 'Covered By Your Grace', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 2em auto;
+    max-width: 800px;
+    
+}
+header {
+    background: black;
+}
+
+section {
+    padding: 26px 25px; 2px;
+}
+
+h2 {
+    font-family:"Covered By Your Grace", arial, sans-serif;
+}
