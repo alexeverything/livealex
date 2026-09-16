@@ -1,0 +1,2 @@
+The publish location in Sitely needs to be to the livealex/docs folder, so that the pages will be published correctly.
+Don't just post them to the top level.
